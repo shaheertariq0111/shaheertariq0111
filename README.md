@@ -4,14 +4,30 @@
 
 ### Cloud Computing | AWS | DevOps | Cloud Infrastructure | Agentic AI
 
+<table>
+<tr>
+<td width="58%" align="left">
+
 Final-year Cloud Computing student building practical AWS infrastructure,  
 cloud-native systems, automation, monitoring, and AI-powered applications.
 
-<br>
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaheer%20Tariq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaheertariq01)
-[![GitHub](https://img.shields.io/badge/GitHub-shaheertariq0111-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaheertariq0111)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@shaheerthesmeagol-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaheerthesmeagol/)
+
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaheertariq01@gmail.com)
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://media.giphy.com/media/G4Vq2JYXFTGuQkE2vJ/giphy.gif" width="280" alt="Mr Robot Elliot Alderson"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -204,6 +220,9 @@ Our work has also been covered internationally by **The New Arab**.
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaheertariq01)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@shaheerthesmeagol-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaheerthesmeagol/)
+
 [![Email](https://img.shields.io/badge/Email-Shaheer-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaheertariq01@gmail.com)
 
 </div>
