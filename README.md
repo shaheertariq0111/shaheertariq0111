@@ -6,6 +6,7 @@
 
 <table>
 <tr>
+
 <td width="58%" align="left">
 
 Final-year Cloud Computing student building practical AWS infrastructure,  
@@ -13,19 +14,34 @@ cloud-native systems, automation, monitoring, and AI-powered applications.
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaheer%20Tariq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaheertariq01)
+<p align="left">
 
-[![Instagram](https://img.shields.io/badge/Instagram-@shaheerthesmeagol-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaheerthesmeagol/)
+  <a href="https://www.linkedin.com/in/shaheertariq01">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn"/>
+  </a>
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaheertariq01@gmail.com)
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/shaheerthesmeagol/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:shaheertariq01@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email"/>
+  </a>
+
+</p>
 
 </td>
 
 <td width="42%" align="center">
 
-<img src="https://media.giphy.com/media/3WKx3HLUwGtBoLBB7q/giphy.gif" width="280" alt="Mr. Robot GIF"/>
+<img src="https://media.giphy.com/media/3WKx3HLUwGtBoLBB7q/giphy.gif" width="280" alt="GIF"/>
 
 </td>
+
 </tr>
 </table>
 
