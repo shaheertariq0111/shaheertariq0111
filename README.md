@@ -23,7 +23,7 @@ cloud-native systems, automation, monitoring, and AI-powered applications.
 
 <td width="42%" align="center">
 
-<img src="https://media.giphy.com/media/G4Vq2JYXFTGuQkE2vJ/giphy.gif" width="280" alt="Mr Robot Elliot Alderson"/>
+<img src="https://media.giphy.com/media/3WKx3HLUwGtBoLBB7q/giphy.gif" width="280" alt="Mr. Robot GIF"/>
 
 </td>
 </tr>
