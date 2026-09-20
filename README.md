@@ -17,19 +17,28 @@ cloud-native systems, automation, monitoring, and AI-powered applications.
 <p align="left">
 
   <a href="https://www.linkedin.com/in/shaheertariq01">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+         width="42"
+         height="42"
+         alt="LinkedIn"/>
   </a>
 
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/shaheerthesmeagol/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F"
+         width="42"
+         height="42"
+         alt="Instagram"/>
   </a>
 
   &nbsp;&nbsp;&nbsp;
 
   <a href="mailto:shaheertariq01@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335"
+         width="42"
+         height="42"
+         alt="Email"/>
   </a>
 
 </p>
@@ -38,7 +47,9 @@ cloud-native systems, automation, monitoring, and AI-powered applications.
 
 <td width="42%" align="center">
 
-<img src="https://media.giphy.com/media/3WKx3HLUwGtBoLBB7q/giphy.gif" width="280" alt="GIF"/>
+<img src="https://media.giphy.com/media/3WKx3HLUwGtBoLBB7q/giphy.gif"
+     width="280"
+     alt="Mr. Robot GIF"/>
 
 </td>
 
