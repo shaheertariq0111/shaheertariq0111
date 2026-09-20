@@ -197,19 +197,31 @@ The project combines a traditional web application architecture with an **event-
      width="100%"
      alt="Shaheer Tariq GitHub Activity"/>
 
-<br>
+<br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaheertariq0111&theme=github_dark"
-     width="32%"
-     alt="Top Languages"/>
+<table>
+<tr>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaheertariq0111&theme=github_dark"
-     width="32%"
-     alt="GitHub Stats"/>
+<td width="33%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaheertariq0111&theme=github_dark"
+       width="100%"
+       alt="Top Languages"/>
+</td>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaheertariq0111&theme=github_dark&utcOffset=8"
-     width="32%"
-     alt="Productive Time"/>
+<td width="33%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaheertariq0111&theme=github_dark"
+       width="100%"
+       alt="GitHub Stats"/>
+</td>
+
+<td width="33%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaheertariq0111&theme=github_dark&utcOffset=8"
+       width="100%"
+       alt="Productive Time"/>
+</td>
+
+</tr>
+</table>
 
 </div>
 
