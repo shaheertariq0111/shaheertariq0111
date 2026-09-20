@@ -193,9 +193,23 @@ The project combines a traditional web application architecture with an **event-
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shaheertariq0111&show_icons=true&hide_border=true&rank_icon=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaheertariq0111&theme=github_dark"
+     width="100%"
+     alt="Shaheer Tariq GitHub Activity"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheertariq0111&layout=compact&hide_border=true&langs_count=6" />
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaheertariq0111&theme=github_dark"
+     width="32%"
+     alt="Top Languages"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaheertariq0111&theme=github_dark"
+     width="32%"
+     alt="GitHub Stats"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaheertariq0111&theme=github_dark&utcOffset=8"
+     width="32%"
+     alt="Productive Time"/>
 
 </div>
 
@@ -205,19 +219,29 @@ The project combines a traditional web application architecture with an **event-
 
 I also co-founded **The Last Earthlings**, a youth-led environmental initiative in Karachi, Pakistan.
 
-Since 2019, we have:
-
-- organized **85+ environmental cleanup initiatives**
-- removed more than **25 tonnes of waste**
-- worked with international companies and organizations
-- engaged communities and young people in environmental action
+Since 2019, we have organized **85+ environmental cleanup initiatives**, removed more than **25 tonnes of waste**, worked with international companies and organizations, and engaged communities in environmental action.
 
 Our work has also been covered internationally by **The New Arab**.
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/The%20Last%20Earthlings-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thelastearthlings/)
-[![Article](https://img.shields.io/badge/Featured%20by-The%20New%20Arab-333333?style=for-the-badge)](https://www.newarab.com/features/last-earthlings-cleaning-karachis-beaches)
+<img src="https://img.shields.io/badge/85%2B-Cleanup%20Initiatives-2E8B57?style=for-the-badge"
+     alt="85+ Cleanup Initiatives"/>
+
+<img src="https://img.shields.io/badge/25%2B%20Tonnes-Waste%20Removed-2E8B57?style=for-the-badge"
+     alt="25+ Tonnes Removed"/>
+
+<br><br>
+
+<a href="https://www.instagram.com/thelastearthlings/">
+  <img src="https://img.shields.io/badge/The%20Last%20Earthlings-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+       alt="The Last Earthlings Instagram"/>
+</a>
+
+<a href="https://www.newarab.com/features/last-earthlings-cleaning-karachis-beaches">
+  <img src="https://img.shields.io/badge/Featured%20by-The%20New%20Arab-333333?style=for-the-badge"
+       alt="The New Arab Feature"/>
+</a>
 
 </div>
 
@@ -237,18 +261,38 @@ Our work has also been covered internationally by **The New Arab**.
 
 ---
 
+
 ## Connect With Me
 
 <div align="center">
 
 **Open to Cloud Engineering, DevOps, Cloud Support, Infrastructure, Platform and Technical Operations opportunities.**
 
-<br>
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaheertariq01)
+<a href="https://www.linkedin.com/in/shaheertariq01">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+       width="46"
+       height="46"
+       alt="LinkedIn"/>
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-@shaheerthesmeagol-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaheerthesmeagol/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[![Email](https://img.shields.io/badge/Email-Shaheer-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaheertariq01@gmail.com)
+<a href="https://www.instagram.com/shaheerthesmeagol/">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F"
+       width="46"
+       height="46"
+       alt="Instagram"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:shaheertariq01@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335"
+       width="46"
+       height="46"
+       alt="Email"/>
+</a>
 
 </div>
