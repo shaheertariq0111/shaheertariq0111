@@ -240,18 +240,54 @@ Our work has also been covered internationally by **The New Arab**.
 <table>
 <tr>
 
+<td width="50%" align="center">
+
+### Beach Cleanups
+
+# **85+**
+
+Community-driven coastal cleanup initiatives
+
+</td>
+
+<td width="50%" align="center">
+
+### Waste Removed
+
+# **25+ tonnes**
+
+Environmental waste removed through action
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
 <td align="center" width="50%">
-  <img src="https://img.shields.io/badge/85%2B-Beach%20Cleanups-2E8B57?style=for-the-badge"
-       alt="85+ Beach Cleanups"/>
+  <a href="https://www.instagram.com/thelastearthlings/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F"
+         width="48"
+         height="48"
+         alt="The Last Earthlings Instagram"/>
+  </a>
   <br>
-  <sub><b>Community-driven coastal cleanup initiatives</b></sub>
+  <sub><b>The Last Earthlings</b></sub>
 </td>
 
 <td align="center" width="50%">
-  <img src="https://img.shields.io/badge/25%2B%20Tonnes-Waste%20Removed-2E8B57?style=for-the-badge"
-       alt="25+ Tonnes Removed"/>
+  <a href="https://www.newarab.com/features/last-earthlings-cleaning-karachis-beaches">
+    <img src="https://www.google.com/s2/favicons?domain=newarab.com&sz=64"
+         width="48"
+         height="48"
+         alt="The New Arab"/>
+  </a>
   <br>
-  <sub><b>Waste removed through environmental action</b></sub>
+  <sub><b>The New Arab Feature</b></sub>
 </td>
 
 </tr>
@@ -259,15 +295,8 @@ Our work has also been covered internationally by **The New Arab**.
 
 </div>
 
-```mermaid
-xychart-beta
-    title "Environmental Impact Snapshot"
-    x-axis ["Beach Cleanups", "Tonnes Removed"]
-    y-axis "Impact Metrics" 0 --> 90
-    bar [85, 25]
-```
+---
 
-## Currently Focused On
 ## Currently Focused On
 
 - AWS cloud architecture
