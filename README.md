@@ -245,15 +245,33 @@ Our work has also been covered internationally by **The New Arab**.
 
 <br><br>
 
-<a href="https://www.instagram.com/thelastearthlings/">
-  <img src="https://img.shields.io/badge/The%20Last%20Earthlings-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-       alt="The Last Earthlings Instagram"/>
-</a>
+<table>
+<tr>
 
-<a href="https://www.newarab.com/features/last-earthlings-cleaning-karachis-beaches">
-  <img src="https://img.shields.io/badge/Featured%20by-The%20New%20Arab-333333?style=for-the-badge"
-       alt="The New Arab Feature"/>
-</a>
+<td align="center" width="50%">
+  <a href="https://www.instagram.com/thelastearthlings/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F"
+         width="48"
+         height="48"
+         alt="The Last Earthlings Instagram"/>
+  </a>
+  <br>
+  <sub><b>The Last Earthlings</b></sub>
+</td>
+
+<td align="center" width="50%">
+  <a href="https://www.newarab.com/features/last-earthlings-cleaning-karachis-beaches">
+    <img src="https://www.google.com/s2/favicons?domain=newarab.com&sz=64"
+         width="48"
+         height="48"
+         alt="The New Arab"/>
+  </a>
+  <br>
+  <sub><b>The New Arab Feature</b></sub>
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -282,29 +300,37 @@ Our work has also been covered internationally by **The New Arab**.
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/shaheertariq01">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-       width="46"
-       height="46"
-       alt="LinkedIn"/>
-</a>
+<table>
+<tr>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" width="33%">
+  <a href="https://www.linkedin.com/in/shaheertariq01">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+         width="48"
+         height="48"
+         alt="LinkedIn"/>
+  </a>
+</td>
 
-<a href="https://www.instagram.com/shaheerthesmeagol/">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F"
-       width="46"
-       height="46"
-       alt="Instagram"/>
-</a>
+<td align="center" width="33%">
+  <a href="https://www.instagram.com/shaheerthesmeagol/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F"
+         width="48"
+         height="48"
+         alt="Instagram"/>
+  </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" width="33%">
+  <a href="mailto:shaheertariq01@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335"
+         width="48"
+         height="48"
+         alt="Email"/>
+  </a>
+</td>
 
-<a href="mailto:shaheertariq01@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335"
-       width="46"
-       height="46"
-       alt="Email"/>
-</a>
+</tr>
+</table>
 
 </div>
